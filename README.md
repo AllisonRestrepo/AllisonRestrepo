@@ -1,4 +1,6 @@
 ## Hi there, I'm Allison 👋
+![image](https://github.com/user-attachments/assets/a3ee904a-15cc-49a2-bbc1-1462df46a48c)
+
 ✨ Welcome to my GitHub profile! ✨
 
 I'm a Systems Engineering student with a passion for technology, coding, and solving real-world problems through innovative solutions. I'm always eager to learn and collaborate on exciting projects!
