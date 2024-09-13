@@ -10,4 +10,4 @@ I'm a Systems Engineering student with a passion for technology, coding, and sol
 - 🤝 Excited to collaborate on open-source projects and anything that helps me grow.
 - 💬 Always happy to help.
   
-Thanks for stopping by! Let’s create something amazing together 💻🚀
+Let’s create something amazing together 💻🚀
