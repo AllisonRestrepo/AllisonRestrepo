@@ -1,5 +1,6 @@
 ## Hi there, I'm Allison 👋
-![image](https://github.com/user-attachments/assets/4ab89415-4ffb-4e20-8b65-9acf8326dfed)
+![image](https://github.com/user-attachments/assets/3d2a55b3-8be6-44ad-92b9-f35eaa2439b2)
+
 
 ✨ Welcome to my GitHub profile! ✨
 
