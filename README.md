@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Allison 👋
+![image](https://github.com/user-attachments/assets/4ab89415-4ffb-4e20-8b65-9acf8326dfed)
 
-<!--
-**AllisonRestrepo/AllisonRestrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Welcome to my GitHub profile! ✨
 
-Here are some ideas to get you started:
+I'm a Systems Engineering student with a passion for technology, coding, and solving real-world problems through innovative solutions. I'm always eager to learn and collaborate on exciting projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me:
+- 🎓 Systems Engineering student in progress.
+- 🌟 I love creating and learning new things.
+- 💻 Currently working on web development projects and improving my skills.
+- 🤝 Excited to collaborate on open-source projects and anything that helps me grow.
+- 💬 Always happy to help.
+  
+Thanks for stopping by! Let’s create something amazing together 💻🚀
